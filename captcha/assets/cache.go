@@ -7,8 +7,8 @@
 package assets
 
 import (
-	"github.com/wenlng/go-captcha/captcha/assets/fonts"
-	"github.com/wenlng/go-captcha/captcha/assets/images"
+	"github.com/PHYLAXIS-NET/go-captcha/captcha/assets/fonts"
+	"github.com/PHYLAXIS-NET/go-captcha/captcha/assets/images"
 )
 
 type AssetData struct {

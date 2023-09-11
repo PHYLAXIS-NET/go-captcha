@@ -8,11 +8,12 @@ package main
 
 import (
 	"fmt"
-	"github.com/wenlng/go-captcha/captcha"
 	"image/color"
 	"image/png"
 	"os"
 	"testing"
+
+	"github.com/PHYLAXIS-NET/go-captcha/captcha"
 )
 
 func TestDrawTextImg(t *testing.T) {

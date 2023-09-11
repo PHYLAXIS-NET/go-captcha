@@ -1,9 +1,10 @@
 package main
 
 import (
-	"github.com/wenlng/go-captcha/tests/pprof"
 	"net/http"
 	_ "net/http/pprof"
+
+	"github.com/PHYLAXIS-NET/go-captcha/tests/pprof"
 )
 
 func main()  {
